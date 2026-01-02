@@ -18,7 +18,7 @@ A full-stack RAG (Retrieval-Augmented Generation) application with a FastAPI bac
 - **ChromaDB**: Vector database for document storage and retrieval
 - **Sentence Transformers**: For generating embeddings
 - **LangChain**: Document processing and text splitting
-- **Google Gemini API** (optional): For generating answers
+- **Google Gemini API** : For generating answers
 
 ### Frontend
 - **React 18**: UI library
@@ -31,7 +31,7 @@ A full-stack RAG (Retrieval-Augmented Generation) application with a FastAPI bac
 - Python 3.8 or higher
 - Node.js 16 or higher
 - npm or yarn
-- (Optional) Google Gemini API key for enhanced answer generation
+- Google Gemini API key for enhanced answer generation
 
 ## Installation & Setup
 
@@ -39,6 +39,7 @@ A full-stack RAG (Retrieval-Augmented Generation) application with a FastAPI bac
 
 1. Navigate to the backend directory:
    ```bash
+   git clone https://github.com/adityakanamadi281/RAG_Agent.git
    cd backend
    ```
 
